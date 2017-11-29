@@ -1,0 +1,41 @@
+Engine,Colour,Model,Year,Reg,Mileage,Engine,numberCylinders,numberCycles,combustion,range ,battery,motor,powertrain
+Petrol,Red,Ferrari,2017,171D10301,30,6.5,3,,,,,,
+Petrol,Red,Ferrari,2017,171D10302,50,6.5,2,,,,,,
+Petrol,Black,Ferrari,2017,171D10303,40,6.5,2,,,,,,
+Petrol,Blue,BMW,2017,171D10304,50,4,2,,,,,,
+Petrol,Silver,BMW,2017,171D10305,40,4,3,,,,,,
+Petrol,White,BMW,2017,171D10306,50,4,2,,,,,,
+Petrol,Red,Audi,2017,171D10307,50,5,4,,,,,,
+Petrol,Red,Audi,2017,171D10308,40,5,2,,,,,,
+Petrol,Black,Audi,2017,172D10309,45,5,3,,,,,,
+Petrol,Black,Audi,2016,161D10310,250,5,2,,,,,,
+Petrol,Silver,Audi,2015,152D10311,400,5,3,,,,,,
+Petrol,White,Audi,2014,141D10312,300,6.5,5,,,,,,
+Petrol,White,Audi,2014,141D10313,300,5,2,,,,,,
+Petrol,Blue,Volskwagon,2017,171D10314,40,4,5,,,,,,
+Petrol,Slate Grey,Volskwagon,2016,161D10315,250,4,2,,,,,,
+Petrol,White,Volskwagon,2013,131D10316,700,4,3,,,,,,
+Petrol,Green,Volskwagon,2014,141D10317,500,4,2,,,,,,
+Petrol,Black,Ford,2017,171D10318,100,4,4,,,,,,
+Petrol,Blue,Ford,2017,172D10319,30,3,4,,,,,,
+Petrol,Slate Grey,Ford,2016,162D10320,70,3,4,,,,,,
+Diesel,Blue,Volskwagon,2017,121D10321,50,3,,4,internal,,,,
+Diesel,White,Volskwagon,2013,131D10322,400,4,,3,internal,,,,
+Diesel,Black,Volskwagon,2014,142D10323,400,4,,2,internal,,,,
+Diesel,Gold,Audi,2017,171D10324,50,6,,4,internal,,,,
+Diesel,Red,Audi,2015,151D10325,500,6,,4,external,,,,
+Diesel,Green,Volvo,2017,112D10326,45,5,,5,external,,,,
+Diesel,Slate Grey,Volvo,2017,101D10327,250,5,,4,external,,,,
+Diesel,Red,BMW,2017,102D10328,300,5.5,,3,external,,,,
+Diesel,Navy,BMW,2017,112D10329,50,5.5,,4,external,,,,
+Electric,Red,Tesla,2017,171D10330,,,,,,220,50,DC,
+Electric,Red,Tesla,2017,172D10331,,,,,,220,50,DC,
+Electric,Blue,Chevrolet,2017,171D10332,,,,,,238,60,AC,
+Electric,White,Nissan,2016,161D10333,,,,,,150,40,DC,
+Hybrid,Red,Prius,2017,172D10334,,,,,,,,,plugin
+Hybrid,Teal,Prius,2016,161D10335,,,,,,,,,plugin
+Hybrid,Navy,Prius,2016,161D10336,,,,,,,,,plugin
+Hybrid,Red,Honda,2015,151D10337,,,,,,,,,plugin
+Hybrid,Beige,Honda,2016,161D10338,,,,,,,,DC,electric
+Hybrid,Silver,Hyundi,2017,171D10339,,,,,,,,DC,electric
+Hybrid,Silver,Hyundi,2017,172D10340,,,,,,,,DC,electric
